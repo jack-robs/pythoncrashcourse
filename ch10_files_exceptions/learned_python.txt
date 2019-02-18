@@ -1,0 +1,5 @@
+In Python you can.... print things
+In Python you can.... import modules
+In Python you can.... do math
+In Python you can.... do loops 
+
